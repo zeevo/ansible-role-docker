@@ -1,0 +1,9 @@
+galaxy_info:
+  author: zeevo.docker
+  description: Simply install Docker
+  company: https://zeevo.io
+  license: MIT
+  min_ansible_version: 2.1
+  galaxy_tags:
+    - docker
+    - zeevo
